@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lantras-main/FreddyFazbearThailand888/refs/heads/main/Sail%20For%20Brainrots/main.lua"))()
